@@ -10,4 +10,5 @@ Integrantes:
 - Castro Resendiz Alan Axel
 - Florencio Trujllo Emmanuel
 - Limón Órtiz José Neftalí
+- López Arriaga Marco Antonio
 - Moreno Lara Isai Vicente
