@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>426100809050-53to2q52pb36ldsoehs11k6felm0hgqe.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.426100809050-53to2q52pb36ldsoehs11k6felm0hgqe</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDkmizXjA8GczAPGMHi5SXyoFL1yPvU6bE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>426100809050</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.eatit</string>
+	<key>PROJECT_ID</key>
+	<string>eatitapp-f870f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>eatitapp-f870f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:426100809050:ios:11d0c300d78067b23ce763</string>
+</dict>
+</plist>
